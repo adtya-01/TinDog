@@ -5,7 +5,7 @@ Tindog is a simple web application built with HTML, CSS, and Bootstrap that allo
 
 ## Demo
 
-You can try out the Tindog application live at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+You can try out the Tindog application live at [[tindog](https://adtya-01.github.io/TinDog/)]
 
 
 ## Getting Started
