@@ -24,3 +24,7 @@ To use Tindog on your local machine, simply clone the repository and open the `i
 ## Contribution
 
 If you find a bug or would like to suggest an improvement, please feel free to open an issue or submit a pull request.
+
+## Screenshots
+
+<img src ="https://repository-images.githubusercontent.com/351409525/51bcca45-1618-4148-b2a2-e787f3991f72">
